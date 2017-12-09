@@ -1,0 +1,9 @@
+[
+    {
+        "VariantName": "init-0",
+        "ModelName": "Jessica series 800",
+        "InitialInstanceCount": 1,
+        "InstanceType": "ml.t2.medium",
+        "InitialVariantWeight": 1.0
+    }
+]
